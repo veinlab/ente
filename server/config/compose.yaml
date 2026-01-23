@@ -1,4 +1,5 @@
 services:
+  # Museum serves as the primary connection point to the database
   museum:
     build:
       context: ..
